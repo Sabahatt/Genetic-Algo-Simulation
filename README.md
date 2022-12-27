@@ -9,8 +9,9 @@ Download and install [Unity](https://unity.com/download) then import to UnityHub
 
 ### screenshots
 
-![generation 1](/ss/ss0.png)
+![generation 1](C:\Users\zafar\Desktop\GAS2D\ss0.png)
 ![generation 2](/ss/ss1.png)
 ![generation 3](/ss/ss2.png)
 ![generation 4](/ss/ss3.png)
 ![generation 5](/ss/ss4.png)
+
