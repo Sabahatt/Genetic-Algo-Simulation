@@ -15,3 +15,7 @@ Download and install [Unity](https://unity.com/download) then import to UnityHub
 ![generation 4](/ss/ss3.png)
 ![generation 5](/ss/ss4.png)
 
+### resources
+
+Thanks and credits to the [creator for the free creature sprite](https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art)
+
